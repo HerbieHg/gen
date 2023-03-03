@@ -12,15 +12,15 @@
     "success_url": "t.me/BotsRealm",
     "env": {
         "API_ID": {
-            "description": "Your api id, from my.telegram.org",
+            "description": "29733445",
             "value": "6"
         },
         "API_HASH": {
-            "description": "Your api hash, from my.telegram.org",
+            "description": "769047f976379f4e540539429c98b046",
             "value": "eb06d4abfb49dc3eeb1aeb98ae0f581e"
         },
         "BOT_TOKEN": {
-            "description": "Your bot token, from @botfather",
+            "description": "5405166611:AAEWyg5pBQTwbYLc-IpmClTlYOXntCWDtgA",
             "value": ""
         },
         "PASTEBIN_API_KEY": {
