@@ -60,10 +60,10 @@ async def starter(event):
         + "** • For highlights:** `/paste None format`.",
         buttons=[
             [
-                Button.url("Creator", url="t.me/buddhhu"),
-                Button.url("Source", url="https://t.me/Botsrealm/13"),
+                Button.url("Creator", url=""),
+                Button.url("Source", url=""),
             ],
-            [Button.url("Formats", url="https://telegra.ph/Highlights-08-04")],
+            [Button.url("Formats", url="")],
         ],
         link_preview=False,
     )
